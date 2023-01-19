@@ -1,0 +1,97 @@
+{
+	"Name": "Thomas",
+
+	"Age": 24,
+
+	"Occupation": "Software developer",
+
+	"Address": {
+
+		"Streetaddress": "114 South Buchanan Boulevard",
+
+		"City": "Duke Box 90790",
+
+		"State": "NY",
+
+		"Postalcode": "27708",
+
+		"Phone": "9196818472",
+
+		"Fax": "9196818492",
+
+
+		"Hobbies": [
+
+			"Writing",
+
+			"Reading",
+
+			"Cycling"
+
+		],
+
+		"Skills": {
+
+			"Programming": [
+
+				"Python",
+
+				"Java"
+
+			],
+
+			"DataBase": [
+
+				"MySQL",
+
+				"MongoDB"
+
+			],
+
+			"DevOps Tools": {
+
+				"Configuration Management": [
+
+					"Ansible",
+
+					"Puppet"
+
+				],
+
+				"Git": "",
+
+				"Virtualization": {
+
+					"Doker": [
+
+						{
+
+							"K8S": "50% covered"
+
+						},
+
+						{
+
+							"swarm": "90% covered"
+
+						},
+
+						"ChoreOS"
+
+					],
+
+					"LXC": ""
+
+				}
+
+			}
+
+		},
+
+		"IQ": "122.55",
+
+		"Hike eligible": "True"
+
+	}
+
+}
